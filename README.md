@@ -38,7 +38,7 @@ O projeto é dividido em duas partes: o Front-end e o Back-end.
 
 1. Clone este repositório.
 2. No diretório do upload-ai-server, localize o arquivo `.env` e adicione sua api key nele.
-4. Execute o Front-end e o Back-end separadamente. Siga as instruções de instalação em suas respectivas pastas.
+4. Execute o Front-end e o Back-end separadamente. Siga as instruções em - [Front-end](upload-ai-web/README.md) - [Back-end](uploade-ai-server/README.md).
 
 ## Uso
 
